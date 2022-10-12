@@ -45,6 +45,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umidraufov&show_icons=true&theme=gotham" alt="umidraufov" />
-
-
