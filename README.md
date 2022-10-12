@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am  Umid Raufov. I am a software engineer specializing in building high load back-end services, web applications, and systems using Java and Spring. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I am  Umid Raufov. I am a software engineer specializing in building high load back-end services, web applications, and systems using JavaScript and NodeJS. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -12,7 +12,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Spring & Vue
+- :computer: I'm currently working on VueJS & React
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
